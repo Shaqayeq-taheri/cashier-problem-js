@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+   
+    "jest": "^29.5.0",
+    "rewire": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalCareerInstitute/PB-the-cashier-problem",
+    "id": 344053613
+  }
+}
